@@ -41,5 +41,9 @@ Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac, Bush Westfield
 
 
 ### 6.Screenshots of Dashborad:
+[overview page](Superstore_overview.png)
 
+[Segment & States Performance page](superstore_product-performance.png)
+
+[Segment & States Performance page](superstore_sgement-performance.png)
 
